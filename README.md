@@ -3,7 +3,7 @@ Postagram - pdfs from your instagram feed
 
 About
 ---------------------
-Generate a pdf from your recent instagram feed.
+Generate [nice pdfs](https://github.com/jakeri/postagram/blob/master/example.pdf) from your recent instagram feed.
 
 Build
 ---------------------
